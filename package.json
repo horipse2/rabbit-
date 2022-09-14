@@ -1,0 +1,16 @@
+{
+  "name": "lee-zoomer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nrm": "^1.2.5",
+    "vue": "^3.2.39"
+  }
+}
